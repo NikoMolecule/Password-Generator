@@ -1,4 +1,4 @@
-# Password-Generator ![](https://img.shields.io/badge/image--slider-v1.0.0--stable-blue)
+# Password-Generator ![](https://img.shields.io/badge/password--generator-v1.0.0--stable-blue)
 
 Hello, this is my another project. I built this project to write code more indenpendently in Javascript.
 
