@@ -26,3 +26,5 @@ It can generate random passwords
 - Nothing :)
 
 ###### Website Link:
+
+https://pass-generator-molecule.netlify.app/
